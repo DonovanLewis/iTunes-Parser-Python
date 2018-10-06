@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-09-30T21:03:04Z</date>
+	<key>Application Version</key><string>12.9.0.167</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>719BD5D06E694D0B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>210</key>
+		<dict>
+			<key>Track ID</key><integer>210</integer>
+			<key>Name</key><string>Children Surrender</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7181956</integer>
+			<key>Total Time</key><integer>191866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:53Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>11426</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Children Surrender</string>
+			<key>Persistent ID</key><string>BEB1166C832D1B31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/04%20Children%20Surrender.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>219</key>
+		<dict>
+			<key>Track ID</key><integer>219</integer>
+			<key>Name</key><string>Perfect Weapon</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8876429</integer>
+			<key>Total Time</key><integer>247640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:56Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-06-08T07:00:00Z</date>
+			<key>Normalization</key><integer>8318</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Perfect Weapon</string>
+			<key>Persistent ID</key><string>7A031FD75861795C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/05%20Perfect%20Weapon.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>225</key>
+		<dict>
+			<key>Track ID</key><integer>225</integer>
+			<key>Name</key><string>Devil's Choir</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>John Feldman, Martin Johnson, Andy Biersack, Jeremy Ferguson &#38; Jake Pitts</string>
+			<key>Album</key><string>Wretched and Divine: The Story of the Wild Ones</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6462743</integer>
+			<key>Total Time</key><integer>177133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-09-30T20:50:07Z</date>
+			<key>Date Added</key><date>2013-12-26T03:40:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-08T08:00:00Z</date>
+			<key>Normalization</key><integer>6938</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wretched and Divine: The Story of the Wild Ones</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Devil's Choir</string>
+			<key>Persistent ID</key><string>ECB7BC852D185C43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Wretched%20and%20Divine_%20The%20Story%20of%20the%20Wi/08%20Devil's%20Choir.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>231</key>
+		<dict>
+			<key>Track ID</key><integer>231</integer>
+			<key>Name</key><string>Saviour</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Jeremy Ferguson &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9166761</integer>
+			<key>Total Time</key><integer>262666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:38Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>4494</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Saviour</string>
+			<key>Persistent ID</key><string>3C74B9C8472747B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/07%20Saviour.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>234</key>
+		<dict>
+			<key>Track ID</key><integer>234</integer>
+			<key>Name</key><string>God Bless You</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts &#38; Marti Frederiksen</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7326976</integer>
+			<key>Total Time</key><integer>198466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:34Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>8880</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>God Bless You</string>
+			<key>Persistent ID</key><string>E4E4B78A7FB09073</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/05%20God%20Bless%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>237</key>
+		<dict>
+			<key>Track ID</key><integer>237</integer>
+			<key>Name</key><string>Rebel Love Song</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts, Jeremy Ferguson &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8629702</integer>
+			<key>Total Time</key><integer>237173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:37Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>10689</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Rebel Love Song</string>
+			<key>Persistent ID</key><string>93FF0814C9A06AEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/06%20Rebel%20Love%20Song.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>240</key>
+		<dict>
+			<key>Track ID</key><integer>240</integer>
+			<key>Name</key><string>Fallen Angels</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jeremy Ferguson, Josh Abraham &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8314912</integer>
+			<key>Total Time</key><integer>224573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:31Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-05-09T07:00:00Z</date>
+			<key>Normalization</key><integer>9994</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Fallen Angels</string>
+			<key>Persistent ID</key><string>153934366F9EF609</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/03%20Fallen%20Angels.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>243</key>
+		<dict>
+			<key>Track ID</key><integer>243</integer>
+			<key>Name</key><string>Love Isn't Always Fair</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9223282</integer>
+			<key>Total Time</key><integer>253053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:33Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>10718</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Love Isn't Always Fair</string>
+			<key>Persistent ID</key><string>CA93344D1F6D47D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/04%20Love%20Isn't%20Always%20Fair.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>246</key>
+		<dict>
+			<key>Track ID</key><integer>246</integer>
+			<key>Name</key><string>Heaven's Calling</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7200800</integer>
+			<key>Total Time</key><integer>199413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:50:01Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>10704</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Heaven's Calling</string>
+			<key>Persistent ID</key><string>BF1C25C9B1C8F65F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/09%20Heaven's%20Calling.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>249</key>
+		<dict>
+			<key>Track ID</key><integer>249</integer>
+			<key>Name</key><string>New Religion</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts, Josh Abraham &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8209577</integer>
+			<key>Total Time</key><integer>230133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:26Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>9449</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>New Religion</string>
+			<key>Persistent ID</key><string>810C3E3E50604F49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/01%20New%20Religion.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>259</key>
+		<dict>
+			<key>Track ID</key><integer>259</integer>
+			<key>Name</key><string>Set the World On Fire</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts, Jeremy Ferguson, Josh Abraham &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7980899</integer>
+			<key>Total Time</key><integer>219266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:29Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-06-07T07:00:00Z</date>
+			<key>Normalization</key><integer>9589</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Set the World On Fire</string>
+			<key>Persistent ID</key><string>E6997F06645A2F51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/02%20Set%20the%20World%20On%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>262</key>
+		<dict>
+			<key>Track ID</key><integer>262</integer>
+			<key>Name</key><string>All Your Hate</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6886701</integer>
+			<key>Total Time</key><integer>190533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:59Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621171696</integer>
+			<key>Play Date UTC</key><date>2018-09-30T21:01:36Z</date>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9041</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>All Your Hate</string>
+			<key>Persistent ID</key><string>0A2A07E7C7BAC1E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/08%20All%20Your%20Hate.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>Smoke and Mirrors</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts, Josh Abraham &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8293482</integer>
+			<key>Total Time</key><integer>225200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:45Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>10692</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Smoke and Mirrors</string>
+			<key>Persistent ID</key><string>3ACAB370F859772E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/12%20Smoke%20and%20Mirrors.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>300</key>
+		<dict>
+			<key>Track ID</key><integer>300</integer>
+			<key>Name</key><string>Sweet Blasphemy</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8637217</integer>
+			<key>Total Time</key><integer>236426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:50:04Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9963</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Sweet Blasphemy</string>
+			<key>Persistent ID</key><string>7FC3FD3BAAEBE39F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/11%20Sweet%20Blasphemy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>303</key>
+		<dict>
+			<key>Track ID</key><integer>303</integer>
+			<key>Name</key><string>Youth &#38; Whisky</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7767736</integer>
+			<key>Total Time</key><integer>210253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:44Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>8938</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Youth &#38; Whisky</string>
+			<key>Persistent ID</key><string>5803D67AD6CE3C3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/11%20Youth%20&#38;%20Whisky.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>309</key>
+		<dict>
+			<key>Track ID</key><integer>309</integer>
+			<key>Name</key><string>Beautiful Remains</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8927183</integer>
+			<key>Total Time</key><integer>253733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:52Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9277</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Beautiful Remains</string>
+			<key>Persistent ID</key><string>1A136F0D9DA9F839</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/03%20Beautiful%20Remains.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>312</key>
+		<dict>
+			<key>Track ID</key><integer>312</integer>
+			<key>Name</key><string>Die for You</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Jacob Pitts, Jeremy Ferguson &#38; Marti Frederiksen</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8125498</integer>
+			<key>Total Time</key><integer>222826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:41Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>11740</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Die for You</string>
+			<key>Persistent ID</key><string>74ADC11003DEAD43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/09%20Die%20for%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>315</key>
+		<dict>
+			<key>Track ID</key><integer>315</integer>
+			<key>Name</key><string>Ritual</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts, Luke Walker &#38; Anne Preven</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7703172</integer>
+			<key>Total Time</key><integer>210120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:42Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>9052</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Ritual</string>
+			<key>Persistent ID</key><string>0973860F3A3643B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/10%20Ritual.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>318</key>
+		<dict>
+			<key>Track ID</key><integer>318</integer>
+			<key>Name</key><string>The Legacy</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Composer</key><string>Andy Biersack, Ashley Purdy, Jacob Pitts &#38; Luke Walker</string>
+			<key>Album</key><string>Set the World On Fire</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10191057</integer>
+			<key>Total Time</key><integer>280400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:40Z</date>
+			<key>Date Added</key><date>2013-12-27T03:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>8203</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set the World On Fire</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Legacy</string>
+			<key>Persistent ID</key><string>3CB6EE4161E6825A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/Set%20the%20World%20On%20Fire/08%20The%20Legacy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>324</key>
+		<dict>
+			<key>Track ID</key><integer>324</integer>
+			<key>Name</key><string>Carolyn</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9943234</integer>
+			<key>Total Time</key><integer>277120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:50:06Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>4970</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Carolyn</string>
+			<key>Persistent ID</key><string>C8A1B438BA92DCB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/12%20Carolyn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>336</key>
+		<dict>
+			<key>Track ID</key><integer>336</integer>
+			<key>Name</key><string>Knives and Pens</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9203178</integer>
+			<key>Total Time</key><integer>255840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:54Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-30T20:47:34Z</date>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>8898</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Knives and Pens</string>
+			<key>Persistent ID</key><string>7A7D5C03E07CDE21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/06%20Knives%20and%20Pens.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>339</key>
+		<dict>
+			<key>Track ID</key><integer>339</integer>
+			<key>Name</key><string>The Mortician's Daughter</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8890292</integer>
+			<key>Total Time</key><integer>251706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:57Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621171506</integer>
+			<key>Play Date UTC</key><date>2018-09-30T20:58:26Z</date>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>2913</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Mortician's Daughter</string>
+			<key>Persistent ID</key><string>A3317EE825FB99EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/07%20The%20Mortician's%20Daughter.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>342</key>
+		<dict>
+			<key>Track ID</key><integer>342</integer>
+			<key>Name</key><string>Never Give In</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6765755</integer>
+			<key>Total Time</key><integer>189200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:50:02Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>10790</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Never Give In</string>
+			<key>Persistent ID</key><string>F7C0E5A412942720</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/10%20Never%20Give%20In.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>354</key>
+		<dict>
+			<key>Track ID</key><integer>354</integer>
+			<key>Name</key><string>The Outcasts (Call to Arms)</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>1581754</integer>
+			<key>Total Time</key><integer>31000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:47Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621171040</integer>
+			<key>Play Date UTC</key><date>2018-09-30T20:50:40Z</date>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>1432</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>Outcasts (Call to Arms)</string>
+			<key>Persistent ID</key><string>57AB7E71369F4968</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/01%20The%20Outcasts%20(Call%20to%20Arms).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>360</key>
+		<dict>
+			<key>Track ID</key><integer>360</integer>
+			<key>Name</key><string>We Stitch These Wounds</string>
+			<key>Artist</key><string>Black Veil Brides</string>
+			<key>Album Artist</key><string>Black Veil Brides</string>
+			<key>Album</key><string>We Stitch These Wounds</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8586800</integer>
+			<key>Total Time</key><integer>239186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-30T20:49:49Z</date>
+			<key>Date Added</key><date>2013-12-26T03:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9984</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Stitch These Wounds</string>
+			<key>Sort Artist</key><string>Black Veil Brides</string>
+			<key>Sort Name</key><string>We Stitch These Wounds</string>
+			<key>Persistent ID</key><string>3DE06A72C9C172F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Black%20Veil%20Brides/We%20Stitch%20These%20Wounds/02%20We%20Stitch%20These%20Wounds.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>BVB</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>708</integer>
+			<key>Playlist Persistent ID</key><string>F064AA7297F7E26B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>225</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-10-01T04:11:53Z</date>
+	<key>Application Version</key><string>12.9.0.167</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>719BD5D06E694D0B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>207</key>
+		<dict>
+			<key>Track ID</key><integer>207</integer>
+			<key>Name</key><string>Spectrum (feat. Cryaotic &#38; Minx)</string>
+			<key>Artist</key><string>Boyinaband</string>
+			<key>Album Artist</key><string>Boyinaband</string>
+			<key>Album</key><string>Spectrum Ft. Cry &#38; Minx - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8791190</integer>
+			<key>Total Time</key><integer>251076</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-10-01T04:11:17Z</date>
+			<key>Date Added</key><date>2016-09-08T17:17:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-25T07:00:00Z</date>
+			<key>Normalization</key><integer>6960</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Spectrum Ft. Cry &#38; Minx - Single</string>
+			<key>Sort Artist</key><string>Boyinaband</string>
+			<key>Sort Name</key><string>Spectrum (feat. Cryaotic &#38; Minx)</string>
+			<key>Persistent ID</key><string>D57BD29D51A06B81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Boyinaband/Spectrum%20Ft.%20Cry%20&#38;%20Minx%20-%20Single/01%20Spectrum%20(feat.%20Cryaotic%20&#38;%20Minx).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>284</key>
+		<dict>
+			<key>Track ID</key><integer>284</integer>
+			<key>Name</key><string>All of Me</string>
+			<key>Artist</key><string>John Legend</string>
+			<key>Album Artist</key><string>John Legend</string>
+			<key>Composer</key><string>John Stephens &#38; Toby Gad</string>
+			<key>Album</key><string>Love in the Future (Deluxe Edition)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9459877</integer>
+			<key>Total Time</key><integer>269556</integer>
+			<key>Album Rating</key><integer>50</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-10-01T04:11:22Z</date>
+			<key>Date Added</key><date>2016-04-19T07:25:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621173077</integer>
+			<key>Play Date UTC</key><date>2018-09-30T21:24:37Z</date>
+			<key>Release Date</key><date>2013-08-12T07:00:00Z</date>
+			<key>Normalization</key><integer>4546</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love in the Future (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Legend</string>
+			<key>Sort Name</key><string>All of Me</string>
+			<key>Persistent ID</key><string>8D5C19A3B452ED00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/John%20Legend/Love%20in%20the%20Future%20(Deluxe%20Edition)/06%20All%20of%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>327</key>
+		<dict>
+			<key>Track ID</key><integer>327</integer>
+			<key>Name</key><string>Terror Eyes (feat. Jeremy Dooley)</string>
+			<key>Artist</key><string>Achievement Hunter</string>
+			<key>Album Artist</key><string>Achievement Hunter</string>
+			<key>Album</key><string>Terror Eyes (feat. Jeremy Dooley) - Single</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9532075</integer>
+			<key>Total Time</key><integer>269973</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-10-01T04:11:07Z</date>
+			<key>Date Added</key><date>2016-04-19T10:17:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621173352</integer>
+			<key>Play Date UTC</key><date>2018-09-30T21:29:12Z</date>
+			<key>Release Date</key><date>2015-07-06T07:00:00Z</date>
+			<key>Normalization</key><integer>3148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Terror Eyes (feat. Jeremy Dooley) - Single</string>
+			<key>Sort Artist</key><string>Achievement Hunter</string>
+			<key>Sort Name</key><string>Terror Eyes (feat. Jeremy Dooley)</string>
+			<key>Persistent ID</key><string>E01D10856FACCAA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Don20/Music/iTunes/iTunes%20Media/Music/Achievement%20Hunter/Terror%20Eyes%20(feat.%20Jeremy%20Dooley)%20-%20Sing/01%20Terror%20Eyes%20(feat.%20Jeremy%20Dooley).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>test</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>1259</integer>
+			<key>Playlist Persistent ID</key><string>D6A73913AD0AD7E4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>284</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
